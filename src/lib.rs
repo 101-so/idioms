@@ -1,0 +1,15 @@
+//! 收集并学习/展示最常见 Rust 代码idioms
+//!
+//! Provides an abstraction over a queue.  When the abstraction is used
+//! there are these advantages:
+//! - Fast
+//! - [`Easy`]
+//!
+//! [`Easy`]: http://thatwaseasy.example.com
+
+/// This module makes it easy.
+pub mod easy {
+
+    /// Use the abstraction function to do this specific thing.
+    pub fn abstraction() {}
+}
